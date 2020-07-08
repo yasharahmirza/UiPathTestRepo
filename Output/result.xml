@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+  <testsuite time="8.786" tests="1" failures="0" errors="1" hostname="Systems_Deployment_Environment" id="4669" name="Automated - PrintName - 1.0.47742362-alpha" package="PrintName_Tests-1.0.47742362-alpha" timestamp="2020-07-06T13:46:13.747Z">
+    <testcase assertions="0" classname="PrintName" name="TestCase.xaml" status="Failed" time="8.786">
+      <error message="A fault occurred while executing job 8845681 for TestCase.xaml. Logs are available at https://cloud.uipath.com/systeybqhkhs/SystemsLimibwes511059/test/executions/4669/logs/8845681?fid=363645" type="Fault" />
+      <system-out>Test case TestCase.xaml (v1.0.47742362-alpha) executed as job 8845681 and took 8786ms. Logs are available at https://cloud.uipath.com/systeybqhkhs/SystemsLimibwes511059/test/executions/4669/logs/8845681?fid=363645</system-out>
+    </testcase>
+  </testsuite>
+</testsuites>
